@@ -97,6 +97,9 @@ brew install git-lfs
 #brew install vbindiff
 #brew install zopfli
 
+# Install preferred Formulae
+brew install nvm
+
 # Install preferred apps
 brew install --cask alfred
 brew install --cask visual-studio-code
