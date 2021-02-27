@@ -109,7 +109,7 @@ brew install --cask google-chrome
 brew install --cask firefox
 #brew install flux
 brew install --cask slack
-brew install --cask spectacle
+brew install --cask rectangle
 brew install --cask postman
 brew install --cask docker
 
