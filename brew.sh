@@ -99,18 +99,19 @@ brew install git-lfs
 
 # Install preferred Formulae
 brew install nvm
+brew install npm
+brew install yarn
 
 # Install preferred apps
 brew install --cask alfred
 brew install --cask visual-studio-code
 brew install --cask google-chrome
-#brew install dash
-#brew install encryptr
 brew install --cask firefox
-#brew install flux
+brew install flux
 brew install --cask slack
 brew install --cask rectangle
 brew install --cask postman
+brew install --cask sequel-pro
 brew install --cask docker
 
 # Remove outdated versions from the cellar.
