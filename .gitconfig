@@ -123,14 +123,14 @@
 
 [color "status"]
 
-	added = yellow
-	changed = green
+	added = green
+	changed = yellow
 	untracked = cyan
 
-[commit]
-
-	# https://help.github.com/articles/signing-commits-using-gpg/
-	gpgsign = true
+#[commit]
+#
+#	# https://help.github.com/articles/signing-commits-using-gpg/
+#	gpgsign = true
 
 [diff]
 
@@ -181,6 +181,9 @@
 
 	insteadOf = "gist:"
 
-[init]
+#[init]
+#
+#	defaultBranch = main
 
-	defaultBranch = main
+[pull]
+	ff = only
